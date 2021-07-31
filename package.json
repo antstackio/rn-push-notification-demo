@@ -8,9 +8,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-firebase/app": "^12.4.0",
+    "@react-native-firebase/messaging": "^12.4.0",
+    "axios": "^0.21.1",
     "expo": "~41.0.1",
-    "expo-updates": "~0.5.4",
+    "expo-constants": "^11.0.1",
     "expo-splash-screen": "~0.10.2",
+    "expo-updates": "~0.5.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "~0.63.4",

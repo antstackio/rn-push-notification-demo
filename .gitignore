@@ -48,7 +48,12 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+Podfile.lock
 
 # Expo
 .expo/
 web-build/
+
+google-services.json
+GoogleService-Info.plist
+package-lock.json

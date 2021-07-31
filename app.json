@@ -1,6 +1,6 @@
 {
-  "name": "rn-push-notification-demo",
-  "displayName": "rn-push-notification-demo",
+  "name": "RN Demo",
+  "displayName": "RN Demo",
   "expo": {
     "name": "rn-push-notification-demo",
     "slug": "rn-push-notification-demo",
