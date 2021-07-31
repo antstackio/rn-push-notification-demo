@@ -1,0 +1,12 @@
+{
+  "name": "rn-push-notification-demo",
+  "displayName": "rn-push-notification-demo",
+  "expo": {
+    "name": "rn-push-notification-demo",
+    "slug": "rn-push-notification-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
