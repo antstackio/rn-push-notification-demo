@@ -18,8 +18,8 @@ This is a demo react native application for implementing push notifications (rem
 
 ### Screenshots
 
-<p>
-  <img loading="lazy"  alt="Home Screen" src="screenshots/HomeScreen.PNG" style="width: 200px; height: 400px"> &nbsp; &nbsp;
-  <img loading="lazy"  alt="Background Notification" src="screenshots/BackgroundPushNotification.PNG" style="width: 200px; height: 400px"> &nbsp;&nbsp;
-  <img loading="lazy"  alt="Foreground Notification" src="screenshots/ForegroundPushNotification.PNG" style="width: 200px; height: 400px"> &nbsp;&nbsp;
+<p align="center">
+  <img loading="lazy"  alt="Home Screen" src="screenshots/HomeScreen.PNG" width: "200"> &nbsp; &nbsp;
+  <img loading="lazy"  alt="Background Notification" src="screenshots/BackgroundPushNotification.PNG" width: "200"> &nbsp;&nbsp;
+  <img loading="lazy"  alt="Foreground Notification" src="screenshots/ForegroundPushNotification.PNG" width: "200"> &nbsp;&nbsp;
 </p>
